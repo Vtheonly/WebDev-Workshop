@@ -1,0 +1,16 @@
+/* Flexbox */
+
+/* Container with flexbox layout */
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Example usage */
+/*
+<div class="flex-container">
+    <div>Item 1</div>
+    <div>Item 2</div>
+    <div>Item 3</div>
+</div>
+*/

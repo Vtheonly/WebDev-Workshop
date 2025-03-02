@@ -1,0 +1,12 @@
+div{
+    width: 200px;
+    background-color: aqua;
+    aspect-ratio: 1;
+    rotate: 0deg;
+    transition: ease all 1s;
+}
+
+
+div:hover{
+    rotate: 45deg;
+}

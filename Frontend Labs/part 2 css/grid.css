@@ -1,0 +1,17 @@
+/* Grid Layout */
+
+/* Container with grid layout */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+/* Example usage */
+/*
+<div class="grid-container">
+    <div>Item 1</div>
+    <div>Item 2</div>
+    <div>Item 3</div>
+</div>
+*/

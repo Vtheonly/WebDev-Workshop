@@ -1,0 +1,23 @@
+/* Colors */
+
+/* Example of color properties */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    color: #007bff;
+}
+
+p {
+    color: #555;
+}
+
+/* Example usage */
+/*
+<body>
+    <h1>Heading with custom color</h1>
+    <p>This is a paragraph with custom color.</p>
+</body>
+*/

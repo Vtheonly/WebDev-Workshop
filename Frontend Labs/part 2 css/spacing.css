@@ -1,0 +1,18 @@
+/* Spacing */
+
+/* Example of spacing properties */
+.container {
+    padding: 20px;
+    margin: 10px;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+/* Example usage */
+/*
+<div class="container">
+    <p>This is a paragraph with custom spacing.</p>
+</div>
+*/

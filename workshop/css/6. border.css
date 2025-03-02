@@ -1,0 +1,12 @@
+.brdr {
+
+
+    display: block;
+
+    height: 50px;
+    width: 200px;
+    border: red solid 3px;
+    background-color: green;
+
+    border-radius: 40px;
+}

@@ -1,0 +1,32 @@
+
+
+
+
+
+
+.xflow {
+        height: 20vh;
+        width: 60vw;
+        background-color: green;
+        border: 3px solid black;
+    
+        overflow: scroll;
+    }
+    
+    
+    .xflow .wrp {
+     width: 300vw;
+    }
+    
+    .xflow span {
+    
+        margin: 5vh 3px;
+    
+        float: left;
+        border: solid 3px brown;
+        background-color: red;
+        width: 100px;
+        height: 100px;
+        display: block;
+    }
+    

@@ -1,0 +1,15 @@
+/* Positioning */
+
+/* Example of positioning properties */
+.box {
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+/* Example usage */
+/*
+<div class="box">
+    <p>This is a box with custom positioning.</p>
+</div>
+*/

@@ -1,0 +1,23 @@
+/* Typography */
+
+/* Example of typography properties */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+/* Example usage */
+/*
+<body>
+    <h1>Heading 1</h1>
+    <p>This is a paragraph with custom typography.</p>
+</body>
+*/

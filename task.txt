@@ -1,0 +1,9 @@
+make a small html code labs in @/Frontend Labs/part 1 html/ 
+
+accroding to @/Markdown Slides/html.md about the html tags in it
+
+
+
+
+
+only merge the slides from the two previous sets of slides into a single, coherent Markdown presentation.,don't add anything else  I'll make sure to maintain a logical flow, avoid redundancy, and keep each slide concise to prevent text overflow

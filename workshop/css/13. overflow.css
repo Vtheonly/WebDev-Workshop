@@ -1,0 +1,15 @@
+div{
+    overflow: hidden;
+}
+
+div{
+    overflow: auto;
+}
+
+
+div{
+    overflow: scroll;
+    overflow-y: hidden;
+    overflow-x:scroll ;
+}
+

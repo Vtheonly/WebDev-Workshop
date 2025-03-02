@@ -1,0 +1,19 @@
+.parent{
+    background-color: blue;
+    position: absolute;
+
+    width: 50vw;
+    height: 50vw;
+}
+
+
+.child{
+    background-color: red;
+    position: relative;
+
+
+
+    z-index: 3;
+    width: 25vw;
+    height: 25vw;
+}

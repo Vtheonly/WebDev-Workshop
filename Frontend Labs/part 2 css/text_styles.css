@@ -1,0 +1,16 @@
+/* Text Styles */
+
+/* Emphasized text */
+em {
+    font-style: italic;
+}
+
+/* Strong text */
+strong {
+    font-weight: bold;
+}
+
+/* Example usage */
+/*
+<p>This is <em>emphasized</em> and this is <strong>strong</strong> text.</p>
+*/

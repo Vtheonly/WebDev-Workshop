@@ -1,0 +1,14 @@
+/* Layout Properties */
+
+/* Container with a fixed width and centered content */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Example usage */
+/*
+<div class="container">
+    <p>This is a centered container with a fixed width.</p>
+</div>
+*/
